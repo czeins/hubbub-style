@@ -1,0 +1,42 @@
+body {
+	margin: 0;
+}
+
+
+#collageColumn {
+	width: 600px;
+  	margin: 0 auto; 
+  	padding: 0;
+}
+
+.lgsq {
+	width: 600px;
+	height: 600px;
+	background-color: indianred;
+	margin-bottom: 10px;
+	float: left;
+}
+
+.smsqContainer {
+	width: 100%;
+	display: flex;
+    -webkit-justify-content: space-between; 
+  	justify-content: space-between; 
+  	margin-bottom: 10px;
+}
+
+.smsq {
+	width: 295px;
+	height: 295px;
+	background-color: red;
+
+
+}
+
+.tweet {
+	width: 600px;
+	height: 200px;
+	background-color: tomato;
+	margin-bottom: 10px;
+	float: left;
+}
